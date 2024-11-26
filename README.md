@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shreshth Shukla!
 
-## BTech Undergraduate | IIT Ropar** <br/>
+## BTech Undergraduate | IIT Ropar <br/>
 Welcome to my GitHub! <br/>
 I'm an aspiring web developer and programmer with a knack for building efficient and innovative solutions. Here’s a little about me: <br/>
 - 🌐 **Web Development Enthusiast:** Skilled in ReactJS and Firebase. I enjoy building interactive, user-friendly applications. <br/>
@@ -9,14 +9,15 @@ I'm an aspiring web developer and programmer with a knack for building efficient
 
 ## 🚀 Skills and Technologies <br/>
 **Web Development** <br/>
--Frontend: ReactJs, HTML, CSS, Javascript <br/>
--Backend: Firebase, Python(Flask) <br/>
-**Programming**<br/>
--Python <br/>
--C++ <br/>
+- Frontend: ReactJs, HTML, CSS, Javascript <br/>
+- Backend: Firebase, Python(Flask) <br/>
 
-<br/>
-# Shreshth's GitHub stats <img width=400 src='https://github-readme-stats.vercel.app/api?username=shreshth47&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' /> <br/>
+**Programming**<br/>
+- Python <br/>
+- C++ <br/><br/>
+
+## My GitHub stats** <br/>
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=shreshth47&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' /> <br/>
 
 
 ## Connect with me
