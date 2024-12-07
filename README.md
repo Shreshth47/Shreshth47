@@ -9,14 +9,15 @@ I'm an aspiring web developer and programmer with a knack for building efficient
 
 ## 🚀 Skills and Technologies <br/>
 **Web Development** <br/>
-- Frontend: ReactJs, HTML, CSS, Javascript <br/>
-- Backend: Firebase, Python(Flask) <br/>
+- ReactJs
+- Firebase
+- Flask(python)
 
 **Programming**<br/>
 - Python <br/>
 - C++ <br/><br/>
 
-## My GitHub stats** <br/>
+## My GitHub stats <br/>
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=shreshth47&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' /> <br/>
 
 
