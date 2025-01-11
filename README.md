@@ -10,15 +10,21 @@ I'm an aspiring web developer and programmer with a knack for building efficient
 ## 🚀 Skills and Technologies <br/>
 **Web Development** <br/>
 - ReactJs
+- NextJs
 - Firebase
 - Flask(python)
+- Docker
 
 **Programming**<br/>
-- Python <br/>
-- C++ <br/><br/>
+- C++ <br/>
+- Python <br/><br/>
 
 ## My GitHub stats <br/>
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=shreshth47&theme=algolia&show_icons=true&hide_border=true&count_private=true' /> <br/>
+<p align='center'>
+  <img  height=200 src='https://github-readme-stats.vercel.app/api?username=shreshth47&count_private=true&include_all_commits=true&theme=algolia&show_icons=true' />
+  <img  height=200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=shreshth47&layout=compact&theme=algolia&langs_count=10&hide=html,css' /> <br/>
+</p>
+
 
 
 ## Connect with me
