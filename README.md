@@ -18,7 +18,7 @@ I'm an aspiring web developer and programmer with a knack for building efficient
 - C++ <br/><br/>
 
 ## My GitHub stats <br/>
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=shreshth47&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' /> <br/>
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=shreshth47&theme=algolia&show_icons=true&hide_border=true&count_private=true' /> <br/>
 
 
 ## Connect with me
