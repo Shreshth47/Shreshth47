@@ -21,8 +21,8 @@ I'm an aspiring web developer and programmer with a knack for building efficient
 
 ## My GitHub stats <br/>
 <p align='center'>
-  <img  height=200 src='https://github-readme-stats.vercel.app/api?username=shreshth47&count_private=true&include_all_commits=true&theme=algolia&show_icons=true' />
-  <img  height=200 src='https://github-readme-stats.vercel.app/api/top-langs/?username=shreshth47&layout=compact&theme=algolia&langs_count=10&hide=html,css' /> <br/>
+  <img  height=150 src='https://github-readme-stats.vercel.app/api?username=shreshth47&count_private=true&include_all_commits=true&theme=algolia&show_icons=true' />
+  <img  height=150 src='https://github-readme-stats.vercel.app/api/top-langs/?username=shreshth47&layout=compact&theme=algolia&langs_count=10&hide=html,css' /> <br/>
 </p>
 
 
